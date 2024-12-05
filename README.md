@@ -22,7 +22,7 @@ Examine the Boeing 767 fly-by-wire system.
 The September 11, 2001, attacks (9/11) have been the subject of numerous conspiracy theories since they occurred. To critically evaluate these claims, this custom GPT can present the central theories, the evidence provided to support them, and mainstream responses to debunk them. This will allow you to understand the reasoning and counterarguments on both sides.
 
 #
-### Plane Crash Inspired
+### Plane Crash Inspiration
 
 ![Plane Crash](https://github.com/user-attachments/assets/0860b4be-bc84-489e-8b47-e2ebc903dd38)
 
