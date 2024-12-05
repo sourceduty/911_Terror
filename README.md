@@ -47,6 +47,17 @@ This prior analysis inadvertently inspired the terrorists responsible for the 9/
 The findings from impact and crash simulations of aircraft like the Boeing 707 and 767 may have inadvertently influenced the tactics employed in the 9/11 terrorist attacks. Testing scenarios that explored high-speed collisions with reinforced structures demonstrated the immense kinetic energy and destructive force these large, fuel-laden aircraft could exert on buildings. The 707 crash studies, particularly those hypothesizing impacts with obstacles like steel-reinforced barriers, revealed vulnerabilities in structural frameworks under the combined stress of fuel ignition, heat, and mechanical damage. Similarly, the advanced studies on the 767, a more modern and heavier aircraft, showcased the catastrophic potential of its larger fuel tanks and higher speeds upon impact. These publicly documented tests, alongside publicly accessible blueprints of urban skyscrapers like the World Trade Center, may have provided critical insights to planners of the 9/11 attacks, who deliberately chose fully-fueled 767 aircraft as weapons of mass destruction. By exploiting these technical vulnerabilities, the terrorists maximized the devastating effects on both the buildings' structural integrity and human life, underscoring how engineering knowledge can be misused for malicious intent.
 
 #
+## Building 7
+
+![WTC-7](https://github.com/user-attachments/assets/71c8b5e9-44b8-4e5e-9993-45ccfbf7c022)
+
+The collapse of World Trade Center Building 7 (WTC 7) on September 11, 2001, wa caused by a combination of fire damage and structural failures caused by debris from the North Tower’s collapse. Falling debris ignited fires on multiple floors of WTC 7, which burned uncontrollably for hours due to a lack of water supply for the sprinkler system. These fires caused thermal expansion of steel beams supporting the building's internal structure, leading to the failure of a critical column (Column 79) and initiating a progressive collapse of the entire building. While this explanation has been widely accepted by engineers and scientists, it has also sparked controversy and skepticism, with critics arguing that the collapse resembled a controlled demolition and questioning the extent to which debris and fire alone could lead to such a rapid and symmetrical failure.
+
+> Alex: "*The historic investigations of 9/11 could be disproven but not erased, officially reinvestigated, or disputed again. I watched several hours of 9/11 videos, investigated the planes, people, government and buildings.*"
+
+> "*None of the buildings were demolished with explosives.*"
+
+#
 ### Official Privacy
 
 Police officers in many countries, including the United States, are allowed and even encouraged to wear uniforms or other forms of attire that help them blend into their surroundings. This is done for a variety of reasons:
