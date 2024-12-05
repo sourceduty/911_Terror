@@ -21,6 +21,8 @@ Examine the Boeing 767 fly-by-wire system.
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Terrorism](https://github.com/sourceduty/Terrorism)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
