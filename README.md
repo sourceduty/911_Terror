@@ -47,7 +47,7 @@ This prior analysis inadvertently inspired the terrorists responsible for the 9/
 The findings from impact and crash simulations of aircraft like the Boeing 707 and 767 may have inadvertently influenced the tactics employed in the 9/11 terrorist attacks. Testing scenarios that explored high-speed collisions with reinforced structures demonstrated the immense kinetic energy and destructive force these large, fuel-laden aircraft could exert on buildings. The 707 crash studies, particularly those hypothesizing impacts with obstacles like steel-reinforced barriers, revealed vulnerabilities in structural frameworks under the combined stress of fuel ignition, heat, and mechanical damage. Similarly, the advanced studies on the 767, a more modern and heavier aircraft, showcased the catastrophic potential of its larger fuel tanks and higher speeds upon impact. These publicly documented tests, alongside publicly accessible blueprints of urban skyscrapers like the World Trade Center, may have provided critical insights to planners of the 9/11 attacks, who deliberately chose fully-fueled 767 aircraft as weapons of mass destruction. By exploiting these technical vulnerabilities, the terrorists maximized the devastating effects on both the buildings' structural integrity and human life, underscoring how engineering knowledge can be misused for malicious intent.
 
 #
-## Building 7
+### Building 7
 
 ![WTC-7](https://github.com/user-attachments/assets/71c8b5e9-44b8-4e5e-9993-45ccfbf7c022)
 
