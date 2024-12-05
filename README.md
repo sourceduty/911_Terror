@@ -19,6 +19,8 @@ Print the official facts of 9/11.
 Examine the Boeing 767 fly-by-wire system.
 ```
 
+"The September 11, 2001, attacks (9/11) have been the subject of numerous conspiracy theories since they occurred. To critically evaluate these claims, I can present the central theories, the evidence provided to support them, and mainstream responses to debunk them. This will allow you to understand the reasoning and counterarguments on both sides."
+
 #
 ### Official Privacy
 
