@@ -22,6 +22,13 @@ Examine the Boeing 767 fly-by-wire system.
 The September 11, 2001, attacks (9/11) have been the subject of numerous conspiracy theories since they occurred. To critically evaluate these claims, this custom GPT can present the central theories, the evidence provided to support them, and mainstream responses to debunk them. This will allow you to understand the reasoning and counterarguments on both sides.
 
 #
+### Preluding Terrorism
+
+In the years leading up to September 11, 2001, there were several warnings and events that, in hindsight, appear to foreshadow the attacks. Intelligence agencies, both within the United States and internationally, had detected rising threats from al-Qaeda and its leader, Osama bin Laden. In 1998, bin Laden openly declared a "fatwa" against the United States, urging Muslims to kill Americans as part of a broader jihad. This declaration followed the 1993 World Trade Center bombing, which hinted at the organization's growing ambition to target iconic U.S. infrastructure. Throughout the late 1990s, al-Qaeda executed other attacks, including the 1998 bombings of U.S. embassies in Kenya and Tanzania, as well as the 2000 bombing of the USS Cole in Yemen. These events demonstrated al-Qaeda's evolving capability to execute large-scale operations and directly target U.S. interests. Despite these actions, intelligence sharing between agencies was often fragmented, and key warnings about al-Qaeda's plans were either missed, underprioritized, or not acted upon cohesively.
+
+Specific intelligence warnings in the months before 9/11 also suggest that the attacks could have been anticipated with better coordination and attention to detail. For example, a presidential daily briefing (PDB) on August 6, 2001, titled "Bin Laden Determined to Strike in US," explicitly mentioned the possibility of hijackings and identified New York City as a potential target. Earlier warnings from foreign intelligence agencies, including those in Germany, France, and Russia, reportedly alerted the U.S. to al-Qaeda’s interest in using airplanes as weapons. In addition, FBI field offices had flagged suspicious activity, such as Middle Eastern men seeking flight training without showing interest in learning how to land planes. However, bureaucratic inefficiencies, poor interagency communication, and a lack of urgency in responding to these warnings created blind spots that ultimately allowed the attackers to proceed with their plans undetected. These failures, detailed in the 9/11 Commission Report, highlight systemic vulnerabilities that made the U.S. susceptible to an attack of such magnitude.
+
+#
 ### Plane Test Crash Inspiration
 
 ![Plane Crash](https://github.com/user-attachments/assets/0860b4be-bc84-489e-8b47-e2ebc903dd38)
